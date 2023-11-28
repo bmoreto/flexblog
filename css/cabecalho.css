@@ -1,0 +1,21 @@
+.cabecalho-bg {
+  background-color: var(--fundo-1);
+}
+
+a {
+  color: var(--cor-w);
+}
+
+.cabecalho {
+  max-width: 960px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.cabecalho p,
+.cabecalho a {
+  margin: 0 10px 10px 10px;
+}

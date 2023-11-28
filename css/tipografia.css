@@ -1,0 +1,36 @@
+.font-xxl {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+}
+
+.font-xxl-b {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.font-xl-b {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 2.25rem;
+}
+
+.font-xl {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 2.25rem;
+}
+
+.font-m {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+}
+
+.font-xs {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 1.25rem;
+}
+
+body {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  color: #222222;
+}
